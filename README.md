@@ -6,3 +6,5 @@ A random dice rolling simulator CLI in Python.
 Clone this project and look at the source files:
 - `main.py`
 - `roller.py`
+
+*Initialized by willlliammmsmiiiith workspace automation.*
